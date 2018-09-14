@@ -1,7 +1,15 @@
 const pkg = require('./package')
 
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/zfolwick.github.io/'
+  }
+} : {}
+
 module.exports = {
   mode: 'universal',
+
+  ...routerBase,
 
   /*
   ** Headers of the page
@@ -17,42 +25,4 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-
-  /*
-  ** Customize the progress-bar color
-  */
-  loading: { color: '#FFFFFF' },
-
-  /*
-  ** Global CSS
-  */
-  css: [
-  ],
-
-  /*
-  ** Plugins to load before mounting the App
-  */
-  plugins: [
-  ],
-
-  /*
-  ** Nuxt.js modules
-  */
-  modules: [
-  ],
-
-  router: {
-    base: '/zfolwick.github.io/'
-  }
-  /*
-  ** Build configuration
-  */
-  build: {
-    /*
-    ** You can extend webpack config here
-    */
-    extend(config, ctx) {
-      
-    }
-  }
 }
