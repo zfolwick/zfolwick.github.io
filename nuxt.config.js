@@ -41,6 +41,9 @@ module.exports = {
   modules: [
   ],
 
+  router: {
+    base: '/zfolwick.github.io/'
+  }
   /*
   ** Build configuration
   */
