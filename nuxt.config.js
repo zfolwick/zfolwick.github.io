@@ -39,7 +39,7 @@ module.exports = {
     dir: "docs"
   },
   router: {
-    base: '/nuxt-demo/'
+    base: '/zfolwick.github.io/'
   }
 }
 
