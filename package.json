@@ -13,6 +13,9 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@rei/cdr-assets": "^0.3.0",
+    "@rei/cdr-button": "^1.0.2",
+    "@rei/cdr-icon": "^1.0.0",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {
