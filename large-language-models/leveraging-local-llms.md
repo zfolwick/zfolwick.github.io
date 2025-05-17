@@ -70,7 +70,7 @@ We can wrap this verbose one-liner up in a bash function `ask-pkg-json`:
 ```bash
 function ask-pkg() {
   # asks a question of package.json files
-  sed '$ s#}$#}\n$1#' <(jq '.scripts' package.json) | ollama run llama3.2:latest
+  sed '$ s#}$#}\n${1}#' <(jq '.scripts' package.json) | ollama run llama3.2:latest
 }
 ```
 and now we can ask all sorts of questions about our package.json scripts portion:
