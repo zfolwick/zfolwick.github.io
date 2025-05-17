@@ -23,7 +23,7 @@ $ jq '.scripts' package.json
   "test:a11y": "playwright test --config=my/a11y/config/file.js"
 }
 ```
-But you can see how, very quickly, this can get untenable in a large project that's not regularly refactored. We can append our question to the end of this file easily:
+But you can see how, very quickly, this can get untenable in a large project that's not regularly refactored. We can append our question to the end of this file easily using `sed`:
 
 ```bash
 $ sed '$ s#}$#}\nwhat kinds of tests are available in the above npm scripts?#' <(jq '.scripts' package.json)
@@ -42,6 +42,15 @@ $ sed '$ s#}$#}\nwhat kinds of tests are available in the above npm scripts?#' <
 }
 what kinds of tests are available in the above npm scripts?
 ```
+in the above code, we can break it down thus:
+
+`sed`: stream editor which we will use to edit the last line of a file.  
+`$`: in the language of `sed`, `$` represents the last line of the file; so we instruct sed to move to the last line of the file.  
+`s#}$#}\nSOME TEXT#`: in the language of `sed`, `s`ubstitute `}` on the final line with a newline character after `}`, followed by `SOME TEXT`.  
+The `#` characters are field separators for `sed`; normally shown using `/`.  
+`<(bash_script)`: This redirects output from a `bash_script` (in our case `jq .scripts package.json`) into the command that it points to.
+`jq .scripts package.json`: parses package.json and only presents the stuff in the "scripts" section.
+
 And finally we can pipe the output here to ollama:
 ```bash
 $ sed '$ s#}$#}\nwhat kinds of tests are available in the above npm scripts?#' <(jq '.scripts' test.json) | ollama run llama3.2:latest
