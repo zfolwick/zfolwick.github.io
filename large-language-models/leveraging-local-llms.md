@@ -52,7 +52,7 @@ The `#` characters are field separators for `sed`; normally shown using `/`.
 `jq .scripts package.json`: parses package.json and only presents the stuff in the "scripts" section.
 
 And finally we can pipe the output here to ollama:
-```bash
+```
 $ sed '$ s#}$#}\nwhat kinds of tests are available in the above npm scripts?#' <(jq '.scripts' test.json) | ollama run llama3.2:latest
 Based on the provided npm script configurations, the following types of tests are available:
 
@@ -75,7 +75,7 @@ function ask-pkg() {
 ```
 and now we can ask all sorts of questions about our package.json scripts portion:
 
-```bash
+```
 $ ask-pkg "what kinds of scripts do I use?"
 The files and scripts mentioned in the configuration are likely using shell scripting languages, specifically:
 
