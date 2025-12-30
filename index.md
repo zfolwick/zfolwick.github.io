@@ -1,3 +1,5 @@
+[today I learned](./til/index.md)
+
 [containerize a webapp](./containerization/containerize-a-webapp.md)
 
 [viewing text](./text/viewing-text.md)
