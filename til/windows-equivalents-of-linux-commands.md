@@ -35,4 +35,4 @@ I spend most of my life in *nix-type operating systems. Mostly MacOS for my dail
 | chdisk |	du | -s	For disk usage. |
 | tree |	ls | -R	To list directory recursively. |
 
-What other little programs exist in windows?  I used to use `handle.exe`, but that appears to have been removed at least as of Windows 11.
+What other little programs exist in windows?  I used to use `handle.exe`, but that appears to have been removed at least as of Windows 11.  `more.exe` still exists to read files from the terminal.

@@ -95,6 +95,10 @@ Commands in `ed` can still be used in `vim`, as well as several other tools. You
 
 while emacs and vim have a notoriously steep learning curve, and `ed` doesn't so much have a learning "curve" as it has a learning _wall_, `nano`/`pico` is a terminal text editor that is both lightweight, reasonably intuitive to use, but nowhere _near_ as powerful as `vim` and `emacs`. In short... it's a text editor. it does what it says on the tin. You can edit documents without learning a bunch of extras, and it's often available on every machine by default.
 
+### edit.exe
+
+It turns out that Windows always had a terminal text editor: Microsoft Edit- known in powershell as edit.exe. It appears to be 100% of the functionality of notepad.exe, but without any of that copilot bullshit included. (seriously guys- learn what consent is... keep your fucking AI out of my text editors!).
+
 # viewing patterns in text
 `ed`, `ex`, `vi`, `vim`, `grep`, `sed`, `less`, and `more` all use the same language when looking for text via some search tearm.  When looking for text that matches a pattern, `grep` is the undisputed go-to command when you don't want to open a file. While it is convenient, and cross-platform, working the same in mac as it does in linux, all of its functionality can be gracefully duplicated by knowing `awk`, and `sed` which also allow for text editing. Of the two of these, I find `awk` to be the most portable (awk works on windows easily); although that doesn't diminish the value of `less`, and `grep` as read-only tools.
 
