@@ -134,7 +134,42 @@ Placing the cursor inside the code block defined above, and typing C-c, C-c, I g
 : data1:1, data2:2
 ```
 
+To run something outside of elisp, place the following in your init.el file:
 
+```
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '((python . t)
+   ;; Add other languages you use here, e.g.,
+   ;; (shell . t)
+   ;; (R . t)
+   ))
+
+```
+
+Then restart emacs, then re-open test_file.org.  Navigate to the bottom of the file and put some python in. The example taken from the orgmode.org site:
+
+```
+#+NAME: less-cols
+| a |
+|---|
+| b |
+| c |
+
+#+BEGIN_SRC python :var tab=less-cols :colnames nil
+return [[val + '*' for val in row] for row in tab]
+#+END_SRC
+```
+Then you can place your cursor here and begin evaluating the text via C-c, C-c.  You should get these results below:
+
+```
+#+RESULTS:
+| a  |
+|----|
+| b* |
+| c* |
+
+```
 
 ### eshell: a sane shell for windows users!
 
