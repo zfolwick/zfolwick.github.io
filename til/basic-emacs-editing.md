@@ -171,6 +171,8 @@ Then you can place your cursor here and begin evaluating the text via C-c, C-c. 
 
 ```
 
+Some other day, I'll try it out on several different types of code, but for now, I've duplicated the functionality of jupyter notebooks.
+
 ### eshell: a sane shell for windows users!
 
 Powershell is... something. But it's nothing like bash, and just installing emacs gives you a shell mode that seems to have all the coreutils installed already.  Start a new buffer in emacs with C-x b, and then start a shell with M-x eshell.  Now, you can run `ls`, `cat`, and `which` to do discovery work, but NOT `vi` or `vim`, or any other editor for that matter. If you try, your session will hang and you'll need to kill the process using C-c, C-\. It will start you up in the directory: `%%HOME%%/Appdata/Roaming` directory as the eshell's `$HOME` directory, so be aware of that.
