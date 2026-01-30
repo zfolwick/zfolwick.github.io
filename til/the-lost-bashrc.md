@@ -1,5 +1,6 @@
 # The curse of the lost .bashrc file
 
+
 I really like to have my configurations customized to my development workflow environment. I had just created a few useful functions which were very helpful, and wanted to move those to a place where they could be generally useful.  My bashrc was symbolically linked from my git repo to the ~/.bashrc directory, and I dutifully _did not_ add a lot of things which were work related.  Somehow, I ended up _deleting_ my .bashrc file, causing a huge loss of productivity, as several required configurations were there for work.
 
 My solution:
@@ -8,13 +9,13 @@ keep my .bashrc minimal and create another .workrc file, which only exists on my
 
 So, from my .bashrc file, add this line:
 
-```
+```bash
 [ -s "$HOME"/.workrc ] && source "$HOME"/.workrc
 ```
 
 and then, in my other RC file, add all the proprietary stuff I want:
 
-```
+```bash
 #! /usr/bin/env bash
 echo "sourcing work-related configuration..."
 
