@@ -1,5 +1,7 @@
 # Today I Learned: Things I just learned
 
+[The Tale of the Lost Config File](./the-lost-bashrc.md)
+
 [Excel is a zip file](./excel-is-a-zip-file.md)
 
 [Installing Doom Emacs](./doom-emacs-setup.md) - Back-to-basics lessons learned
