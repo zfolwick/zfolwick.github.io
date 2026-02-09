@@ -1,5 +1,7 @@
 # Today I Learned: Things I just learned
 
+[The need for explicit Language in communicating](./explicit-language.md) - A poorly communicated idea is less valuable than communism
+
 [The Tale of the Lost Config File](./the-lost-bashrc.md) - Mitigating issues when you delete important documents
 
 [Excel is a zip file](./excel-is-a-zip-file.md) - Zip is a lot of file types
