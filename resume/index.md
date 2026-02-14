@@ -30,11 +30,11 @@ vim, emacs, Android Studio, Xcode, IntelliJ, Rider, Eclipse, Visual Studio, VSco
 Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
 
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<h3><div style="display: flex; justify-content: space-between; width: 100%;">
   <span><strong>AIM Consulting for Starbucks</strong></span>
   <span><strong>Lead SDET</strong></span>
   <span><strong>Aug 2023 – Present</strong></span>
-</div>
+</div></h3>
 * Led two test automation teams in developing test automation in support of releasing a new electron react POS application.
 * Led 1:1 meetings with 7 members of my team, listening to issues and suggestions.
 * Assessed existing test automation. Developed and executed a plan to streamline existing test automation framework to conform to SOLID principles.
