@@ -1,33 +1,31 @@
-
-
-Zachary Folwick
-541-678-1653        zfolwick@gmail.com         https://zfolwick.github.io
+# Zachary Folwick
+## 541-678-1653        zfolwick@gmail.com         [https://zfolwick.github.io](https://zfolwick.github.io)
 
 
 Experienced programming polyglot, team builder, process improver with a history of implementing proven test automation strategies and lowering the cost of QA.
 
 
-Language Experience
+### Language Experience
 Bash, Java, C#, Javascript, Typescript, SQL, Python, Swift, PowerShell
 
 
-Frameworks
+### Frameworks
 Playwright, Selenium, XCUITest, Espresso, React, Vue, Electron, NodeJS, Spring Boot, Cucumber, JUnit, TestNG, Jest, cross platform .NET
 
 
-Data Storage Experience
+### Data Storage Experience
 Oracle PL/SQL, MySQL, MongoDB
 
 
-Editors
+### Editors
 vim, emacs, Android Studio, Xcode, IntelliJ, Rider, Eclipse, Visual Studio, VScode, emacs, robomongo, mongo shell, sqldeveloper
 
 
-DevOps
+### DevOps
 Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
 
 
-AIM Consulting for Starbucks        Lead SDET        Aug 2023 – Present
+## AIM Consulting for Starbucks        Lead SDET        Aug 2023 – Present
 * Led two test automation teams in developing test automation in support of releasing a new electron react POS application.
 * Led 1:1 meetings with 7 members of my team, listening to issues and suggestions.
 * Assessed existing test automation. Developed and executed a plan to streamline existing test automation framework to conform to SOLID principles.
@@ -39,7 +37,7 @@ AIM Consulting for Starbucks        Lead SDET        Aug 2023 – Present
 * Authored several scripts to interact with external services over http, parse data, measure and improve coding standards within the test automation framework.
 
 
-REV, Inc        Senior SDET        January 2021 – Jun 2023
+## REV, Inc        Senior SDET        January 2021 – Jun 2023
 * Architected test automation environments using Terraform and Ansible, Kubernetes, and Docker running in AWS.
 * Migrated from dedicated qa servers to Infrastructure as Code and Configuration as Code using terraform and AWS.
 * Writing REST API services in cross-platform C# and java to support QA operations.
@@ -49,9 +47,7 @@ REV, Inc        Senior SDET        January 2021 – Jun 2023
 * Developed 2 SDETs, trained from manual QA to perform java programming, selenium, and test automation.
 
 
-
-
-REI, Inc        SDET        August 2018 – January 2021
+## REI, Inc        SDET        August 2018 – January 2021
 * QA owner for REI flagship mobile product, responsible for >$100 million of revenue for the Co-op across iOS and Android.
 * Eventually took over as QA owner for all the customer mobile space, managing native mobile apps across 154 stores.
 * Managed 7 QA personnel, who raised the overall app rating from 2.9 stars to 4.2 stars in the iOS and android app stores.
@@ -61,14 +57,14 @@ REI, Inc        SDET        August 2018 – January 2021
 * Created Jenkins job to streamline and compartmentalize test automation efforts.
 
 
-AIM Consulting for REI        SDET        July 2017  – August 2018
+## AIM Consulting for REI        SDET        July 2017  – August 2018
 * Developed a resiliency testing framework to test dockerized web services during a network or app slowdown event at Disney for their ESPN push notification service.
 * Added extensive BVTs and functional tests to increase test coverage and reporting for services requiring test automation.
 * Dockerized internal web-based monitoring tool.
 * Responsible for running, configuring, and optimizing automated regression tests locally and in Jenkins, troubleshooting issues related to tests.
 
 
-Rhapsody/Napster        SDET        April 2016 – June 2017
+## Rhapsody/Napster        SDET        April 2016 – June 2017
 * Developed test plans and test automation infrastructure to support transitioning to microservice-oriented content delivery architecture- reducing content delivery times by as much as 95% and increasing resiliency.
 * Authored command line scripts and trained non-technical content-ingestion team in use, allowing Napster to meet key deliverables to partners reducing team workload.
 * Deployed several microservices handling database access, cache clearing, and content delivery.
@@ -79,13 +75,13 @@ Rhapsody/Napster        SDET        April 2016 – June 2017
 * Wrote clients for test architecture to interface with SQL and NoSQL databases.
 
 
-Insight Global        SDE contractor – Microsoft        March 2015 – March 2016
+## Insight Global        SDE contractor – Microsoft        March 2015 – March 2016
 * Effectively used TDD and open-source tool to port PowerShell to Linux.
 * Assisted in creating a test architecture to run extensive Pester tests.
 * Utilized open-source tools extensively to implement multi-platform development in Linux, across multiple development languages.
 * Trained team members to use in house and open source tools.
 
 
-Education:
+## Education
 Bachelors in Mathematics
 University of Washington - 2012
