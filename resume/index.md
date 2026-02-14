@@ -7,7 +7,7 @@ Zachary Folwick
 Experienced programming polyglot, team builder, process improver with a history of implementing proven test automation strategies and lowering the cost of QA.
 
 
-Language Experience<
+Language Experience
 Bash, Java, C#, Javascript, Typescript, SQL, Python, Swift, PowerShell
 
 
