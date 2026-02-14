@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <span><strong>541-678-1653</strong></span>
   <span><strong>zfolwick@gmail.com</strong></span>
-  <span><strong><a href>https://zfolwick.github.iohttps://zfolwick.github.io</a></strong></span>
+  <span><strong>[https://zfolwick.github.io](https://zfolwick.github.io)</a></strong></span>
 </div>
 <br>
 <br>
@@ -31,6 +31,11 @@ Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
 
 
 ## AIM Consulting for Starbucks        Lead SDET        Aug 2023 – Present
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <span><strong>AIM Consulting for Starbucks</strong></span>
+  <span><strong>Lead SDET</strong></span>
+  <span><strong>Aug 2023 – Present</a></strong></span>
+</div>
 * Led two test automation teams in developing test automation in support of releasing a new electron react POS application.
 * Led 1:1 meetings with 7 members of my team, listening to issues and suggestions.
 * Assessed existing test automation. Developed and executed a plan to streamline existing test automation framework to conform to SOLID principles.
