@@ -1,31 +1,32 @@
 
 
-<h2 style="text-align: center;">Zachary Folwick</h2>
+Zachary Folwick
 541-678-1653        zfolwick@gmail.com         https://zfolwick.github.io
 
-<br>
+
 Experienced programming polyglot, team builder, process improver with a history of implementing proven test automation strategies and lowering the cost of QA.
-<br>
-<br>
-<p style="text-align: center;">Language Experience</p>
+
+
+Language Experience<
 Bash, Java, C#, Javascript, Typescript, SQL, Python, Swift, PowerShell
-<br>
-<br><p style="text-align: center;">Frameworks</p>
+
+
+Frameworks
 Playwright, Selenium, XCUITest, Espresso, React, Vue, Electron, NodeJS, Spring Boot, Cucumber, JUnit, TestNG, Jest, cross platform .NET
-<br>
-<br>
-<p style="text-align: center;">Data Storage Experience</p>
+
+
+Data Storage Experience
 Oracle PL/SQL, MySQL, MongoDB
-<br>
-<br>
-<p style="text-align: center;">Editors</p>
+
+
+Editors
 vim, emacs, Android Studio, Xcode, IntelliJ, Rider, Eclipse, Visual Studio, VScode, emacs, robomongo, mongo shell, sqldeveloper
-<br>
-<br>
-<p style="text-align: center;">DevOps</p>
+
+
+DevOps
 Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
-<br>
-<br>
+
+
 AIM Consulting for Starbucks        Lead SDET        Aug 2023 – Present
 * Led two test automation teams in developing test automation in support of releasing a new electron react POS application.
 * Led 1:1 meetings with 7 members of my team, listening to issues and suggestions.
