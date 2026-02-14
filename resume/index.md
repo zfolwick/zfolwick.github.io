@@ -1,5 +1,11 @@
 <h2 style="text-align: center;">Zachary Folwick</h2>
-## 541-678-1653        zfolwick@gmail.com         [https://zfolwick.github.io](https://zfolwick.github.io)
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <span>541-678-1653</span>
+  <span>zfolwick@gmail.com</span>
+  <span>https://zfolwick.github.iohttps://zfolwick.github.io</a></span>
+</div>
+
 
 
 Experienced programming polyglot, team builder, process improver with a history of implementing proven test automation strategies and lowering the cost of QA.
