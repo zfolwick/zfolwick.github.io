@@ -1,38 +1,31 @@
-#+title: Resume
-#+OPTIONS: toc:nil
-
-#+BEGIN_CENTER
-Zachary Folwick
-541-678-1653        zfolwick@gmail.com         https://zfolwick.github.io 
-#+END_CENTER
 
 
-Experienced programming polyglot, team builder, process improver with a history of implementing proven test automation strategies and lowering the cost of QA
+<h2 style="text-align: center;">Zachary Folwick</h2>
+541-678-1653        zfolwick@gmail.com         https://zfolwick.github.io
 
-
-
-Language Experience
+<br>
+Experienced programming polyglot, team builder, process improver with a history of implementing proven test automation strategies and lowering the cost of QA.
+<br>
+<br>
+<p style="text-align: center;">Language Experience</p>
 Bash, Java, C#, Javascript, Typescript, SQL, Python, Swift, PowerShell
-
-
-Frameworks
+<br>
+<br><p style="text-align: center;">Frameworks</p>
 Playwright, Selenium, XCUITest, Espresso, React, Vue, Electron, NodeJS, Spring Boot, Cucumber, JUnit, TestNG, Jest, cross platform .NET
-
-
-Data Storage Experience
+<br>
+<br>
+<p style="text-align: center;">Data Storage Experience</p>
 Oracle PL/SQL, MySQL, MongoDB
-
-
-Editors
-
-
+<br>
+<br>
+<p style="text-align: center;">Editors</p>
 vim, emacs, Android Studio, Xcode, IntelliJ, Rider, Eclipse, Visual Studio, VScode, emacs, robomongo, mongo shell, sqldeveloper
-
-
-DevOps
+<br>
+<br>
+<p style="text-align: center;">DevOps</p>
 Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
-
-
+<br>
+<br>
 AIM Consulting for Starbucks        Lead SDET        Aug 2023 – Present
 * Led two test automation teams in developing test automation in support of releasing a new electron react POS application.
 * Led 1:1 meetings with 7 members of my team, listening to issues and suggestions.
