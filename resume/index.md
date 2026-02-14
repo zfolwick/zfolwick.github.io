@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <span>541-678-1653</span>
   <span>zfolwick@gmail.com</span>
-  <span>https://zfolwick.github.iohttps://zfolwick.github.io</a></span>
+  <span><a href>https://zfolwick.github.iohttps://zfolwick.github.io</a></span>
 </div>
 
 
