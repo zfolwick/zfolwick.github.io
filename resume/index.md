@@ -1,4 +1,4 @@
-# Zachary Folwick
+<h2 style="text-align: center;">Zachary Folwick</h2>
 ## 541-678-1653        zfolwick@gmail.com         [https://zfolwick.github.io](https://zfolwick.github.io)
 
 
