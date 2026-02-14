@@ -1,7 +1,6 @@
 [today I learned](./til/index.md)
 
-[containerize a webapp](./containerization/containerize-a-webapp.md)
+[posts](./posts/index.md)
 
-[viewing text](./text/viewing-text.md)
+[resume](./resume/index.md)
 
-[large language models usage in dev workflow](./large-language-models/leveraging-local-llms.md)
