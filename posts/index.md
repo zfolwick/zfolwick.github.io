@@ -1,4 +1,4 @@
-# **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)**
+## **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)**
 
 <br>
 <br>
