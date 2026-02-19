@@ -1,10 +1,4 @@
-<center>
-
-**[home](../index.md)**  
-**[today I learned](./til/index.md)**  
-**[longer posts](./posts/index.md)**
-
-</center>
+[home](../index.md) | [today I learned](./til/index.md) | [longer posts](./posts/index.md)
 
 <br>
 <br>
