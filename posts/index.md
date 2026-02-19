@@ -1,14 +1,6 @@
-[today I learned](./til/index.md)
-
-[longer posts](./posts/index.md)
-
-[home](../index.md)
-
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span><strong>[home](../index.md)</strong></span>
-  <span><strong>[today I learned](./til/index.md)</strong></span>
-  <span><strong>[longer posts](./posts/index.md)</strong></span>
-</div>
+| **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)** |
+| --- | --- | --- |
+``
 
 <br>
 <br>
