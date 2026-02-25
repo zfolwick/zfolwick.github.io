@@ -1,7 +1,10 @@
-## **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)**
+## **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)** | **[github](https://github.com/zfolwick)** |
 
 <br>
 <br>
+
+## Why is this page such hot garbage
+It isn't.  It's quiet. It's focused. It's one of the few places on the internet where you're not bombarded with ads and other noise. There's images in some of the articles, but they're to support the message, not distract from it.
 
 ## How to view this page in curl
 The basic command is: `curl -s https://zfolwick.github.io/ | xq -x '*/body'`
