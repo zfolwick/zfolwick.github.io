@@ -12,8 +12,11 @@ When software is decided based on the latest hotness.  Blockchain, microservices
 
 * example of when to use RDD
 
-Anxiety Driven Development
-When you manage a project or make decisions on what to implement and how it gets implemented.  when you hold meetings "just to get a quick sync".  When every meeting is derailed and people are constantly interrupting over each other, because somehow, them _talking_ is the secret missing thing that is needed for productivity.
+## Anxiety Driven Development
+
+When you manage a project or make decisions on what to implement and how it gets implemented, you want to be using the very best thought processes and not let yourself be guided by fear. 
+
+In the Real World there's plenty to be afraid of- with the fear of failure taking front and center..  when you hold meetings "just to get a quick sync".  When every meeting is derailed and people are constantly interrupting over each other, because somehow, them _talking_ is the secret missing thing that is needed for productivity.
 
 Fire Ready Aim Development
 FRAD is a software development equivalent of the "there's never time to do it right, but there's always time to do it over".  It can often be paired with Anxiety Driven Development.
