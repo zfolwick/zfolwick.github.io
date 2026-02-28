@@ -1,10 +1,12 @@
-What are anti-patterns?
+## What are anti-patterns?
+
 Anti-patterns is a term used to describe the idiotic ways that software can be constructed. They can often lead to intractible issues, also known as "coding oneself into a corner", e.g., making a series of decisions whereby it all becomes terrible and you're left with nowhere you can go.
 
 - Coding horror reference & link
 
-Resume Driven Development
-When software is decided based on the latest hotness.  Blockchain, microservices, AI-powered! No need to think deeply about the project's needs, because if I can just show off my superior skills with my AWS certificate, then people will hire me!
+## Resume Driven Development
+
+When software is decided based on the latest hotness.  Blockchain, microservices, AI-powered! No need to think deeply about the project's needs, because if I can just show off my superior skills with my AWS certificate, then people will hire me! "Just put it on the blockchain!" 
 
 * example of RDD
 
