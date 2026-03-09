@@ -1,5 +1,7 @@
 # Today I Learned: Things I just learned
 
+[vim version of emacs code execution in org-mode](./vim-execute-script-in-register.md)
+
 [The need for explicit Language in communicating](./explicit-language.md) - A poorly communicated idea is less valuable than communism
 
 [The Tale of the Lost Config File](./the-lost-bashrc.md) - Mitigating issues when you delete important documents
