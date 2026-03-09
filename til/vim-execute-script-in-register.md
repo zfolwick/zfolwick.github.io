@@ -15,9 +15,9 @@ Vim (and now neovim) has ex-mode.  ex mode is incredibly useful and powerful.
 |  command  | description |
 +-----------+------------|
 | `:5t23` | transfer (copy/paste) the content of line 5 to line 23 |
-| `:4,9t16 | transfer the content of lines 4 through 9 to line 16, pushing everything down further. |
-| `:'<,'>d | deletes a selected block of text |
-| `:'<,'>w !bash | execute the selected text and replace it with bash output. |
+| `:4,9t16` | transfer the content of lines 4 through 9 to line 16, pushing everything down further. |
+| `:'<,'>d` | deletes a selected block of text |
+| `:'<,'>w !bash` | execute the selected text and replace it with bash output. |
 | `'<,'>copy'>+1|-1,$!bash` | copy the selected text and paste it with one line below your selected text, then run the text from one line above the cursor to the end of the file in a bash shell and replace the output |
 
 That last one was a doozy.  Let's build it up.
@@ -29,7 +29,7 @@ That last one was a doozy.  Let's build it up.
 * `'>+1` - the line after the end of the visual selection
 * `|` - in vim, this separates commands to be run right after each other (like && in long bash one-liners)
 * `-1,$` - the line before the current line, all the way to the end of file
-* !bash - run what's in memory in bash and replace the current output in the text body.
+* `!bash` - run what's in memory in bash and replace the current output in the text body.
 * `-1,$!bash` - run the previous line, all the way to the end in bash, and then replace those lines with the output from bash.
 
 Let's see an example:
