@@ -10,7 +10,7 @@ Emacs has org-mode, which adds `#+begin_src` and `#+end_src` block to your code,
 
 Vim (and now neovim) has ex-mode.  ex mode is incredibly useful and powerful.
 
-`:'<,'>` is a handy little vim tool which says "starting from the beginning of the visual mode to the end of visual mode".  This could easily be ":2,8" instead, which stands for "starting from line 2 and moving to line 8,".  This is the beginning of a sentence, where what follows is a verb.  Let's say in vim we wanted to copy line 5 to line 23; for that we would write in the command bar, ":5t23".  Below is a list of useful ex-mode example commands I use daily:
+`:'<,'>` is a handy little vim tool which says "starting from the beginning of the visual mode to the end of visual mode".  This could easily be ":2,8" instead, which stands for "starting from line 2 and moving to line 8,".  This is the beginning of a sentence, where what follows is a verb.  Let's say in vim we wanted to copy line 5 to line 23; for that we would write in the command bar, ":5t23" or ":5copy23".  Below is a list of useful ex-mode example commands I use daily:
 
 |  command  | description |
 +-----------+------------|
@@ -34,7 +34,7 @@ That last one was a doozy.  Let's build it up.
 
 Let's see an example:
 
-With two lines of input, the command becomes: '<,'>copy'>+1|-1,$!bash
+With two lines of input, the command becomes: `'<,'>copy'>+1|-1,$!bash`
 
 ```bash
 echo "hi"
@@ -58,7 +58,12 @@ a third line
 
 Notice the first "echo hi" isn't executed?
 
-if instead of copying _after_ the selection, we copy to _before_ the selection, it offers us some more versatility.  Try running `:'<,'>t-1|'<,'>!bash` by highlighting the next 3 bash lines, running this command, and pressing enter twice (to get through the prompt):
+if instead of copying _after_ the selection, we copy to _before_ the selection, it offers us some more versatility.  Try running:
+```bash
+:'<,'>t-1|'<,'>!bash
+```
+
+By highlighting the next 3 bash lines, running this command, and pressing enter twice (to get through the prompt):
 
 ```bash
 echo "hi"
@@ -72,6 +77,7 @@ Success!
 
 This can run against an arbitrarily large command block.  Just select the region to execute:
 
+```bash
 echo "+++++++++++++++++++++++++++"
 echo "File report:"
 echo "Environment: $(uname -a)"
@@ -88,5 +94,5 @@ stat output: 16777230 265694319 -rw-r--r-- 1 zfolwick staff 0 269 "Mar  9 11:31:
 md5sum: 311f0f99441e1df8e65f33a4e0b7fe57  ./shell-in-vim
 report completed
 +++++++++++++++++++++++++++
-
+```
 It doesn't appear to take inputs, which is a bit sad, but that's fine if you need to run a script to generate a report, or want to try to learn some bash.
