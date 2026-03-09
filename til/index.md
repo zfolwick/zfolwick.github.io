@@ -1,6 +1,6 @@
 # Today I Learned: Things I just learned
 
-[vim version of emacs code execution in org-mode](./vim-execute-script-in-register.md)
+[vim execute script in register](./vim-execute-script-in-register.md) - vim version of emacs code execution in org-mode
 
 [The need for explicit Language in communicating](./explicit-language.md) - A poorly communicated idea is less valuable than communism
 
