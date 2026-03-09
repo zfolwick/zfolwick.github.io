@@ -96,3 +96,9 @@ report completed
 +++++++++++++++++++++++++++
 ```
 It doesn't appear to take inputs, which is a bit sad, but that's fine if you need to run a script to generate a report, or want to try to learn some bash.
+
+Now, in my init.lua file (I run neovim, but any flavor will do this, including, likely ex) I just put:
+```lua
+vim.keymap.set('v','<leader>b', ":'<,'>t-1|'<,'>!bash")
+```
+and now I highlight my text, run <space>b, press return twice, and all the output will be present.
