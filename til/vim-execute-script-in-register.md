@@ -101,4 +101,4 @@ Now, in my init.lua file (I run neovim, but any flavor will do this, including, 
 ```lua
 vim.keymap.set('v','<leader>b', ":'<,'>t-1|'<,'>!bash")
 ```
-and now I highlight my text, run <space>b, press return twice, and all the output will be present.
+and now I highlight my text, run `SPACE`+b, press return twice, and all the output of my bash script will be present.  I suspect this will work for typescript, lua, lisp, python, etc.
