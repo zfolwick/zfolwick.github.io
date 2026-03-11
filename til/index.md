@@ -1,5 +1,7 @@
 # Today I Learned: Things I just learned
 
+[execute any script in register](./running-any-script-in-vim-text.md) - running any scripted language in vim
+
 [vim execute script in register](./vim-execute-script-in-register.md) - vim version of emacs code execution in org-mode
 
 [The need for explicit Language in communicating](./explicit-language.md) - A poorly communicated idea is less valuable than communism
