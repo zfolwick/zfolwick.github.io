@@ -21,4 +21,6 @@ In fact, there's no reason it couldn't do :face_vomiting: javascript!
 '<,'>t-1|'<,'>!node
 ```
 
+![node](./images/node-in-vim.gif)
+
 Next question: this definitely works with _interpreted_ languages.  Does this work with compiled languages as well?
