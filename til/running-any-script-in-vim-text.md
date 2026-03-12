@@ -24,3 +24,13 @@ In fact, there's no reason it couldn't do :face_vomiting: javascript!
 ![node](./images/node-in-vim.gif)
 
 Next question: this definitely works with _interpreted_ languages.  Does this work with compiled languages as well?
+
+But the next question: how long has this been supported in text editors?  Here it is working in the `ex` editor (first released in [1978](https://en.wikipedia.org/wiki/Ex_(text_editor)):
+
+![ex](./images/bash-and-python-in-ex.gif)
+
+The `ed` editor from the 1960's also has this capability, but it's a bit different:
+
+![ed](./images/bash-in-ed.gif)
+
+I see no reason this shouldn't also run python or node or lua or whatever.
