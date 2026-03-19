@@ -26,6 +26,7 @@ sends mail using curl from the command line
 
 mail [send|compose|help]
 
+help       this menu
 send       sends an email 
 compose    composes an email
 ```
