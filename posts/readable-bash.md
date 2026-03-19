@@ -14,11 +14,7 @@ That being said. each help function should follow some basic rules, which brings
 
 ## every help function should follow the same pattern: info, usage, examples.
 
-People will not be able to Google your scripts and find tons of info on how to run it.  These are scripts that you'll likely never use again or that will become a core part of the software infrastructure. Nobody could predict which, but regardless, describing the expectations of the user is always a good practice.  Additionally, breaking it down like that allows us to automatically build our our documentation as we code.
-
-## Always write and install and removal script
-
-During development you will need to install to a machine and remove several times. Ensuring it can be seemlessly installed and removed it vital to proper functioning. when pushing to a package manager, an install script makes it vastly simpler.
+People will not be able to Google your scripts and find tons of info on how to run it.  These are scripts that you'll likely never use again or that will become a core part of the software infrastructure but then quickly forgotten about. Nobody could predict which, but regardless, describing the expected usage of the tool is always a good practice.  Additionally, it's immensely usedule to break help messaging down into a predictable pattern that allows us to automatically build our our documentation as we code.
 
 ## Every function that has a help function also has an info function exposed to the user, even if it's not documented.
 
@@ -34,8 +30,12 @@ send       sends an email
 compose    composes an email
 ```
 
-Notice the first line has the same information as `menu info` would describe, but `info` is not in the list of described functions. `info` can be part of the next higher level's help output 
+Notice the first line has the same information as `menu info` would describe, but `info` is not in the list of described functions. `info` can be part of the next higher level's help output; e.g., `menu send info` in the above example would printo to the console, "sends an email".
 
-## Prepend functions exposed to the user with the name of the script, and then leverage that regex to automatically build your documentation. 
+## Prepend functions that are exposed to the user with the name of the script, and then leverage that regex to automatically build your documentation. 
 
-Encapsulating the sending functionality in a function called `menu_send` which is exposed to the user, we can automatically add the send function to the `menu help` output by parsing the names of the functions, creating a list of the functions starting with `menu_`, and calling _that_ function's `info` function.  This allows the code to become automatically documented.
+Encapsulating the sending functionality in a function or sub script called `menu_send` which is exposed to the user, we can automatically add the send function to the `menu help` output by parsing the names of the functions, creating a list of the functions starting with `menu_`, and calling _that_ function's `info` function.  This allows the code to become automatically documented.
+
+## Always write and install and removal script
+
+During development you will need to install to a machine and remove several times. Ensuring it can be seemlessly installed and removed it vital to proper functioning. when pushing to a package manager, an install script makes it vastly simpler.
