@@ -3,6 +3,8 @@
 <br>
 <br>
 
+[readable-bash](./readable-bash.md) - writing easily extensible and discoverable cli tools
+
 [containerize a webapp](./containerization/containerize-a-webapp.md)
 
 [viewing text](./text/viewing-text.md)
