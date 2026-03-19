@@ -21,7 +21,7 @@ People will not be able to Google your scripts and find tons of info on how to r
 This is the top one-line description of what the function does.  In our example, `menu info` would say echo something to the console like "sends mail using curl from the command line".  `menu help` would not list `info` as a function, but `menu help` would print to the console something like:
 
 ```
-$ menu help
+$ mail help
 sends mail using curl from the command line
 
 mail [send|compose|help]
@@ -30,11 +30,11 @@ send       sends an email
 compose    composes an email
 ```
 
-Notice the first line has the same information as `menu info` would describe, but `info` is not in the list of described functions. `info` can be part of the next higher level's help output; e.g., `menu send info` in the above example would printo to the console, "sends an email".
+Notice the first line has the same information as `mail info` would describe, but `info` is not in the list of described functions. `info` can be part of the next higher level's help output; e.g., `mail send info` in the above example would printo to the console, "sends an email".
 
 ## Prepend functions that are exposed to the user with the name of the script, and then leverage that regex to automatically build your documentation. 
 
-Encapsulating the sending functionality in a function or sub script called `menu_send` which is exposed to the user, we can automatically add the send function to the `menu help` output by parsing the names of the functions, creating a list of the functions starting with `menu_`, and calling _that_ function's `info` function.  This allows the code to become automatically documented.
+Encapsulating the sending functionality in a function or sub script called `mail_send` which is exposed to the user, we can automatically add the send function to the `mail help` output by parsing the names of the functions, creating a list of the functions starting with `mail_`, and calling _that_ function's `info` function.  This allows the code to become automatically documented.
 
 ## Always write and install and removal script
 
