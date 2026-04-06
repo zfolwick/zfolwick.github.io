@@ -1,4 +1,4 @@
-## **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)** | **[github](https://github.com/zfolwick)** |
+## **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)** | **[github](https://github.com/zfolwick)** | **[resume](./resume) |
 
 <br>
 <br>
