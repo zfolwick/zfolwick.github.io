@@ -1,3 +1,8 @@
+## **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)** | **[github](https://github.com/zfolwick)** |
+<br>
+[AI's thoughts about my resume](./hype.md)
+<br>
+
 <h1 style="text-align: center;">Zachary Folwick</h1>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
