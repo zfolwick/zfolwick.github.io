@@ -1,4 +1,4 @@
-## **[home](../index.md)** | **[today I learned](./til/index.md)** | **[longer posts](./posts/index.md)** | **[github](https://github.com/zfolwick)** |
+## **[home](../index.md)** | **[today I learned](../til/index.md)** | **[longer posts](../posts/index.md)** | **[github](https://github.com/zfolwick)** |
 <br>
 [AI's thoughts about my resume](./hype.md)
 <br>
@@ -46,7 +46,7 @@ Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
 * Led 1:1 meetings with 7 members of my team, listening to issues and suggestions.
 * Assessed existing test automation. Developed and executed a plan to streamline existing test automation framework to conform to SOLID principles.
 * Developed tools to enable authoritative and actionable test automation results for client teams.
-* Facilitated tight coordination between two teams of developers, QA, and SDETs to decrease test duplication efforts, streamline regression testing, reduce feedback times for developers, and improve overall quality of product delivered to manual qa for testing.
+* Facilitated tight coordination between two teams of developers, QA, and SDETs to decrease test duplication efforts, streamline regression testing, reduce feedback times for developers, and impro[...]
 * Presented completed sprint work to ~30 Starbucks OWS team stakeholders, ensuring that SOW goals are accomplished in a timely manner.
 * Facilitated discussions that determined coding style, and then documented, and socialized style changes.
 * Mentored SDETs on the team, conducting lunch + learn brownbag style learning sessions on tool familiarization.
@@ -79,8 +79,8 @@ Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
 * QA owner for REI flagship mobile product, responsible for >$100 million of revenue for the Co-op across iOS and Android.
 * Eventually took over as QA owner for all the customer mobile space, managing native mobile apps across 154 stores.
 * Managed 7 QA personnel, who raised the overall app rating from 2.9 stars to 4.2 stars in the iOS and android app stores.
-* Managed a cross-platform team of contractors and SDETs to extend test automation coverage, facilitated tight coordination between manual QA and SDETs to decrease test duplication efforts and streamline regression testing.
-* Wrote and edited several in-house libraries, including an in-house wrapper around selenium, an accessibility testing automation framework, and several utility methods in java, swift, and espresso.
+* Managed a cross-platform team of contractors and SDETs to extend test automation coverage, facilitated tight coordination between manual QA and SDETs to decrease test duplication efforts and str[...]
+* Wrote and edited several in-house libraries, including an in-house wrapper around selenium, an accessibility testing automation framework, and several utility methods in java, swift, and espress[...]
 * Developed test automation in both Swift for iOS, and Espresso for Android.
 * Created Jenkins job to streamline and compartmentalize test automation efforts.
 
@@ -105,13 +105,13 @@ Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
         <span><strong>April 2016 – June 2017</strong></span>
     </div>
 </h2>
-* Developed test plans and test automation infrastructure to support transitioning to microservice-oriented content delivery architecture- reducing content delivery times by as much as 95% and increasing resiliency.
+* Developed test plans and test automation infrastructure to support transitioning to microservice-oriented content delivery architecture- reducing content delivery times by as much as 95% and in[...]
 * Authored command line scripts and trained non-technical content-ingestion team in use, allowing Napster to meet key deliverables to partners reducing team workload.
 * Deployed several microservices handling database access, cache clearing, and content delivery.
 * Successfully advocated team-wide QA processes to increase stability and decrease development time.
 * Authored numerous automated test harnesses to perform functional regression testing for existing and new API endpoints using testNG and JUnit.
 * Used jmeter to create several automated load tests of our primary APIs.
-* Successfully advocated for and coordinated migration of existing test automation from CVS and Mercurial version control systems to git, resulting in reduced train-up times, increased code quality, significantly reduced code duplication, and greater infrastructure stability.
+* Successfully advocated for and coordinated migration of existing test automation from CVS and Mercurial version control systems to git, resulting in reduced train-up times, increased code quali[...]
 * Wrote clients for test architecture to interface with SQL and NoSQL databases.
 
 
