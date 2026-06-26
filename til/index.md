@@ -1,3 +1,8 @@
+## **[home](../index.md)** | **[today I learned](./index.md)** | **[longer posts](../posts/index.md)** | **[github](https://github.com/zfolwick)** | **[resume](../resume/index.md)** |
+
+<br>
+<br>
+
 # Today I Learned: Things I just learned
 
 [execute any script in register](./running-any-script-in-vim-text.md) - running any scripted language in vim

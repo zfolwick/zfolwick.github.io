@@ -1,25 +1,30 @@
+## **[home](../index.md)** | **[today I learned](./index.md)** | **[longer posts](../posts/index.md)** | **[github](https://github.com/zfolwick)** | **[resume](../resume/index.md)** |
+
+<br>
+<br>
+
 # Emacs: Day 0
 
-I used to use emacs back when I was contracting at Microsoft. I'd ask the old Linux grey-beards there whether I should use vim or emacs, and- _resoundingly_, every single person said "you should really learn both". I'd gotten emacs set up _just_ the way I liked it, and for some reason, my config file stopped working.  This was before the days of doom emacs, but after evil-mode.  I'm a minimalist at heart, so I decided simplicity trumps all. I opened up vim, set it up, and never really looked back.  Sure there's been intellij and eclipse, and vscode is a really nicely done IDE, but as my writing needs are increasing, I'm finding myself more and more trying to work _around_ the text editor, instead of with it.
+I used to use emacs back when I was contracting at Microsoft. I'd ask the old Linux grey-beards there whether I should use vim or emacs, and- _resoundingly_, every single person said "you should re...
 
-So, here I am again, nearly 10 years later, setting up emacs from scratch.  I'll avoid doom emacs for now simply due to the fact it doesn't seem to work on windows or WSL easily.  That's fine- we should know how to do vanilla emacs. With vim, I was really concerned with minimal changes, so I could easily work on any server.  Now with docker being more ubiquitous, vim not being standard in Ubuntu (I think vi might still be), and alpine having nearly _nothing_, I have found myself relying more and more on older solutions not involving a real text editor at all. For my daily drivers, unlike vim, this really is going to be a customized solution for my workflow. I'm really doing this to explore org-mode.
+So, here I am again, nearly 10 years later, setting up emacs from scratch.  I'll avoid doom emacs for now simply due to the fact it doesn't seem to work on windows or WSL easily.  That's fine- we s...
 
 ## Navigating
-RTFM.  Everywhere tells you how to go up a line, down a line, forward on a line, backward on a line, and skip words, delete words, delete a line, paste a line.  I'm not recreating that particular wheel.  Opening GNU Emacs displays a tutorial link. Read it by putting the cursor over it and pressing _enter_.  Come back when you can navigate.
+RTFM.  Everywhere tells you how to go up a line, down a line, forward on a line, backward on a line, and skip words, delete words, delete a line, paste a line.  I'm not recreating that particular w...
 
-# A warning
+## A warning
 
-Finally, give up on the idea that you'll set up doom emacs or spacemacs or anything else on windows.  It's too difficult at the beginning while you're learning everything else.  Just be content with the basics, and you'll discover that doomemacs and spacemacs are just some fashionable configurations around a tool. If you want sexy, those are the tools for you. If you want functional, try starting with vanilla emacs and gradually start levelling up.
+Finally, give up on the idea that you'll set up doom emacs or spacemacs or anything else on windows.  It's too difficult at the beginning while you're learning everything else.  Just be content wi...
 
 ## Day 1: Setting up shop
 
 ### Create a file: the emacs config file
 
-The first thing you need is a config file.  I've titled mine _init.el_, and it lives in a directory called _.emacs.d_, in my home directory. If you want to make this in emacs, there's two ways:  C-x, C-f (which stands for "Control+x, Control+f"), and the more informative, M-x find-file (on windows the M stands for "Meta" key- which is set to the Alt key; on mac keyboards it's the CMD key).  Pressing "M-x fin" and then <TAB> will immediately open a list of possible things you could choose from, including find-file.  The init.el file won't exist, so emacs will create a new buffer and when saved, will save to the path: _~/.emacs.d/.init.el_, and emacs will just know to look for its configuration there. Obviously you could just use the GUI file manager to create the file, or notepad, or whatever.
+The first thing you need is a config file.  I've titled mine _init.el_, and it lives in a directory called _.emacs.d_, in my home directory. If you want to make this in emacs, there's two ways:  C...
 
 ### Saving a file: save the config file
 
-C-x C-s will save the file.  If you used only emacs to create the file, up to this point, nothing exists yet on the file system (much like a regular text editor).  Saving will create a new object on the file system.
+C-x C-s will save the file.  If you used only emacs to create the file, up to this point, nothing exists yet on the file system (much like a regular text editor).  Saving will create a new object ...
 
 ### The first changes to a file: simplifying the view
 
@@ -49,7 +54,7 @@ C-/ for code changes or C-_ (my preferred method).
 
 ### Themes and Dark Mode
 
-M-x load<TAB> should bring up a list of functions starting with the text "load".  One of those should be "load-theme". When prompted to enter the theme, press <TAB> again, and a list of themes should display.  In the init.el, type:
+M-x load<TAB> should bring up a list of functions starting with the text "load".  One of those should be "load-theme". When prompted to enter the theme, press <TAB> again, and a list of themes sho...
 ```
 (load-theme 'wheatgrass t)
 ```
@@ -63,14 +68,14 @@ Your config file should now look like:
 (load-theme 'wheatgrass t)
 ```
 
-Now restart emacs. It should be a pleasant dark mode.  There's tons of different themes to choose from- the built-in themes aren't as extensive as vim or neovim, but they're acceptable and installing packages will add even more.
+Now restart emacs. It should be a pleasant dark mode.  There's tons of different themes to choose from- the built-in themes aren't as extensive as vim or neovim, but they're acceptable and install...
 
 ### Kill the current buffer
 
 Press C-x k (Control+x, then k).
 
 ### Org mode
-The reason I wanted to try emacs in the first place was because I'd heard so much about org-mode. Org-mode is installed with emacs by default, but check with https://orgmode.org/ to stay current on details.
+The reason I wanted to try emacs in the first place was because I'd heard so much about org-mode. Org-mode is installed with emacs by default, but check with https://orgmode.org/ to stay current o...
 
 Placing `(setq org-hide-emphasis-markers t)` allows stuff to generally be rendered in the the screen.
 
@@ -88,7 +93,7 @@ some other text
 
 We can render it as html via C-c, C-e, then reading the output window, we see the option to export to HTML via "h", then "o".  Then your browser will open with the bullet points displayed.
 
-We can also collapse these because in org files, '*' indicates levels. We can fold our text up by placing the cursor and the end of the line on "welcome to org-mode" and pressing <TAB>. We can slowly unfold layer by layer by repeatedly pressing <TAB>. Press it enough and every subheading will be collapsed.
+We can also collapse these because in org files, '*' indicates levels. We can fold our text up by placing the cursor and the end of the line on "welcome to org-mode" and pressing <TAB>. We can slo...
 
 For the sections below, we'll create new bullet points at the top level.  Experiment with <TAB> and <SHIFT>+<TAB> and the effects from that.
 
@@ -105,11 +110,11 @@ Tables are similar to markdown, though the header separator is slightly differen
 
 ```
 
-Note the "+" sign as the biggest difference between tables in markdown. Another difference comes by pressing <TAB> while your cursor is inside the table.  This makes it easier to navigate through the table.  You can add new lines easily this way, and it's just as easy as several other methods!
+Note the "+" sign as the biggest difference between tables in markdown. Another difference comes by pressing <TAB> while your cursor is inside the table.  This makes it easier to navigate through...
 
 #### Code running
 
-I'm by no means an expert at this, but it appears emacs has jupyter notebook like functionality, but for more than just python (and yes, python appears to be included).  Check out the tutorial on orgmode.org.
+I'm by no means an expert at this, but it appears emacs has jupyter notebook like functionality, but for more than just python (and yes, python appears to be included).  Check out the tutorial on...
 
 By adding the following lines to my test_file.org, I was able to run commands in different languages.  I start with a new bullet point:
 
@@ -175,12 +180,12 @@ Some other day, I'll try it out on several different types of code, but for now,
 
 ### eshell: a sane shell for windows users!
 
-Powershell is... something. But it's nothing like bash, and just installing emacs gives you a shell mode that seems to have all the coreutils installed already.  Start a new buffer in emacs with C-x b, and then start a shell with M-x eshell.  Now, you can run `ls`, `cat`, and `which` to do discovery work, but NOT `vi` or `vim`, or any other editor for that matter. If you try, your session will hang and you'll need to kill the process using C-c, C-\. It will start you up in the directory: `%%HOME%%/Appdata/Roaming` directory as the eshell's `$HOME` directory, so be aware of that.
+Powershell is... something. But it's nothing like bash, and just installing emacs gives you a shell mode that seems to have all the coreutils installed already.  Start a new buffer in emacs with ...
 
 
 ### Installing packages: the MELPA library
 
-MELPA (Milkypostman’s Emacs Lisp Package Archive) is the first package manager for emacs you'll encounter, though it's not the only one. Navigate to MELPA's [getting started](https://melpa.org/#/getting-started) page for details. Because I rarely want bleeding-edge code (I'm not that brave), I installed MELPA stable via:
+MELPA (Milkypostman's Emacs Lisp Package Archive) is the first package manager for emacs you'll encounter, though it's not the only one. Navigate to MELPA's [getting started](https://melpa.org/...
 
 ```
 (require 'package)

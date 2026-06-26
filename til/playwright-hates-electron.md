@@ -1,3 +1,8 @@
+## **[home](../index.md)** | **[today I learned](./index.md)** | **[longer posts](../posts/index.md)** | **[github](https://github.com/zfolwick)** | **[resume](../resume/index.md)** |
+
+<br>
+<br>
+
 # Playwright hates electron
 
-Playwright works well enough as a tool to drive electron applications but a common test automation activity is to record videos of your test runs.  That's not something electron does very well.  Electron starts up and provides an ElectronApplication object, containing a BrowserContext, which _should_ allow test automation developers to be able to record video.  Sadly, this doesn't seem to work, despite the myriad of examples you may find on the internet.  I'll need to use ffmpeg to record test case runs.
+Playwright works well enough as a tool to drive electron applications but a common test automation activity is to record videos of your test runs.  That's not something electron does very well.  El...

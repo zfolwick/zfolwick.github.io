@@ -1,3 +1,8 @@
+## **[home](../index.md)** | **[today I learned](./index.md)** | **[longer posts](../posts/index.md)** | **[github](https://github.com/zfolwick)** | **[resume](../resume/index.md)** |
+
+<br>
+<br>
+
 # Excel, unzipped
 
 If you ever wondered why excel is slow when it gets large, imagine if your computer needed to open 12 different files. Excel is an xml relational database.
@@ -36,7 +41,7 @@ While other data (such as numbers and calulation results), are stored in xml fil
 
 <img src="images/excel-is-a-zip-file-7.png">
 
-Each time you open the document, you're first unzipping this into a temporary working directory, and then excel is piecing everything together and rendering it.  When you save a file, you're zipping it all up into a single file, and calling it "xlsx".
+Each time you open the document, you're first unzipping this into a temporary working directory, and then excel is piecing everything together and rendering it.  When you save a file, you're zippi...
 
 I wonder:
 * can generate one from scratch?
