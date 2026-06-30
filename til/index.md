@@ -5,7 +5,7 @@
 
 # Today I Learned: Things I just learned
 
-[debug in bash](!./debug-bash.md) - extremely basic debugging in bash.  No frills or unexpected behavior
+[debug in bash](./debug-bash.md) - extremely basic debugging in bash.  No frills or unexpected behavior
 
 [execute any script in register](./running-any-script-in-vim-text.md) - running any scripted language in vim
 
