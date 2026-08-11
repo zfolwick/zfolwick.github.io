@@ -1,0 +1,11 @@
+# AI Psychosis
+
+Everything is AI. There's no such thing as a conversation in the tech industry without mentioning AI. It's taken up all the air in the room. Even doomsayers, naysayers, and luddites are constantly going on and on about it.
+
+Guys. Tools are great. Generative AI is _really_ cool.  Mathematically, neural networks are similar to Fourier series in that they can [approximate any function](https://neuralnetworksanddeeplearning.com/chap4.html); and because they can effectively describe any math function, they become excellent general-purpose tools for any algorithm, similar to the fourier series.  It _will_ become a foundational algorithm, and the complexity that can arise from deep convolutional networks will be a cornerstone of applied mathematics in the future, so students will study RELU, CNNs, and the deeper math behind generative AI.  It's here to stay.  But let's stop with the histrionics.
+
+Many years ago I compared the celebrated position of machinists, mechanics, and anyone who knew their way around an engine with the then-current crop of tech workers. I could see parallels: wrench-turners who used to be able to provide for a family of four or more with money left over for retirement were being replaced by a labor force that was being paid only slightly more than minimum wage. Then the manufacturing jobs went overseas, the market flooded, and never really recovered.  Plenty of people will read this and argue they could still make good money, but I ask you- what is the purchasing power of your predecessor in the 1970s? Is it more or less than today?
+
+The outsourcing of good judgement, skepticism, and experience to AI is the death knell of the tech industry in its current form. The problem-solvers of the past are no longer the value proposition they once were. "Knowledge workers" are marching all-to-happily to outsource their knowledge for a "good-enough" codebase that changes far too much for every revision; this means that the asset once valued highly- knowledge- is now a valued less than what is effectively another proxy for LOC: token usage.
+
+Because the barrier to entry is so much lower to get a prototype out, everyone thinks they can develop software, and if they can develop software, it's 
