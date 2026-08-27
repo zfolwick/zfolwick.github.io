@@ -38,10 +38,10 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 ## Core Competencies
 
-<table width="100%">
+<table width="100%;" border="0">
 <tr valign="top">
 
-<td width="33%">
+<td width="33%" style="border:none;">
 
 <strong>Engineering Leadership</strong>
 <ul>
@@ -55,7 +55,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 </td>
 
-<td width="33%">
+<td width="33%" style="border:none;">
   <strong>Applied AI Engineering</strong>
   <ul>
     <li>Azure AI Foundry</li>
@@ -70,7 +70,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td width="33%">
+<td width="33%" style="border:none;">
   <strong>AI-Assisted Engineering</strong>
   <ul>
     <li>GitHub Copilot</li>
@@ -136,7 +136,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 <table width="100%">
 <tr valign="top">
 
-<td width="25%">
+<td width="25%" style="border:none;">
   <strong>Java-Based</strong>
   <ul>
     <li>Playwright</li>
@@ -149,7 +149,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td width="25%">
+<td width="25%" style="border:none;">
   <strong>.NET</strong>
   <ul>
     <li>xUnit</li>
@@ -159,7 +159,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td width="25%">
+<td width="25%" style="border:none;">
   <strong>iOS-Based</strong>
   <ul>
     <li>Cucumber</li>
@@ -168,7 +168,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td width="25%">
+<td width="25%" style="border:none;">
   <strong>JavaScript-Based</strong>
   <ul>
     <li>React</li>
