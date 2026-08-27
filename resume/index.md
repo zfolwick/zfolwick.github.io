@@ -6,12 +6,17 @@
 
   <br />
 </div>
+
+<br />
+
 <div style="center">
   <strong>
     Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
   </strong>
   <br />
 </div>
+
+<br />
 
 Quality engineering leader with 10+ years of experience driving automation strategy, engineering excellence, and organizational quality improvements across retail, e-commerce, media, cloud, and enterprise software platforms.
 
