@@ -1,133 +1,261 @@
-## **[home](../index.md)** | **[today I learned](../til/index.md)** | **[longer posts](../posts/index.md)** | **[github](https://github.com/zfolwick)** |
-<br>
-[AI's thoughts about my resume](./hype.md)
-<br>
+<div align="center">
 
-<h1 style="text-align: center;">Zachary Folwick</h1>
+# Zachary Folwick
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span><strong>541-678-1653</strong></span>
-  <span><strong>zfolwick@gmail.com</strong></span>
-  <span><strong><a href>https://zfolwick.github.io</a></strong></span>
+541-678-1653 • <a href="mailto:zfolwick@gmail.com">zfolwick@gmail.zfolwick.github
+
+## Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
+
 </div>
-<br>
-<br>
-Experienced programming polyglot, team builder, process improver with a history of implementing proven test automation strategies and lowering the cost of QA.
 
+Quality engineering leader with 10+ years of experience driving automation strategy, engineering excellence, and organizational quality improvements across retail, e-commerce, media, cloud, and enterprise software platforms.
 
-### Language Experience
-Bash, Java, C#, Javascript, Typescript, SQL, Python, Swift, PowerShell
+Combines deep hands-on engineering expertise with proven success leading teams, mentoring engineers, transforming delivery processes, and applying AI-assisted development practices to improve quality, productivity, and business outcomes.
 
+---
 
-### Frameworks
-Playwright, Selenium, XCUITest, Espresso, React, Vue, Electron, NodeJS, Spring Boot, Cucumber, JUnit, TestNG, Jest, cross platform .NET
+## Career Highlights
 
+- Reduced regression testing cycles from 3 days to 4 hours through automation strategy and process optimization.
+- Led quality engineering efforts for mobile products responsible for $100M+ annual revenue.
+- Increased mobile application ratings from 2.9 to 4.2 stars through quality initiatives and organizational improvements.
+- Directed automation strategy across 6 repositories, 2 automation teams, and 4 delivery teams.
+- Established AI-assisted development standards and adoption practices using GitHub Copilot and related tooling.
+- Built, mentored, and developed SDETs ranging from junior engineers to senior technical contributors.
+- Influenced engineering and quality outcomes across organizations with 30+ senior stakeholders.
 
-### Data Storage Experience
-Oracle PL/SQL, MySQL, MongoDB
+---
 
+## Core Competencies
 
-### Editors
-vim, emacs, Android Studio, Xcode, IntelliJ, Rider, Eclipse, Visual Studio, VScode, emacs, robomongo, mongo shell, sqldeveloper
+<table width="100%">
+<tr valign="top">
 
+<td width="33%">
 
-### DevOps
-Jenkins, ADO, Kubernetes, Docker, Postman, maven, gradle, jmeter, Hyper-V
+### Engineering Leadership
 
+- Team Leadership
+- Mentoring & Coaching
+- Cross-Functional Collaboration
+- Stakeholder Management
+- Hiring & Talent Development
+- Quality Governance
 
-<h2>
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <span><strong>AIM Consulting for Starbucks</strong></span>
-        <span><strong>Lead SDET</strong></span>
-        <span><strong>Aug 2023 – Present</strong></span>
-    </div>
-</h2>
-* Led two test automation teams in developing test automation in support of releasing a new electron react POS application.
-* Led 1:1 meetings with 7 members of my team, listening to issues and suggestions.
-* Assessed existing test automation. Developed and executed a plan to streamline existing test automation framework to conform to SOLID principles.
-* Developed tools to enable authoritative and actionable test automation results for client teams.
-* Facilitated tight coordination between two teams of developers, QA, and SDETs to decrease test duplication efforts, streamline regression testing, reduce feedback times for developers, and impro[...]
-* Presented completed sprint work to ~30 Starbucks OWS team stakeholders, ensuring that SOW goals are accomplished in a timely manner.
-* Facilitated discussions that determined coding style, and then documented, and socialized style changes.
-* Mentored SDETs on the team, conducting lunch + learn brownbag style learning sessions on tool familiarization.
-* Authored several scripts to interact with external services over http, parse data, measure and improve coding standards within the test automation framework.
+</td>
 
-             
-<h2>
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <span><strong>REV, Inc</strong></span>
-        <span><strong>Senior SDET</strong></span>
-        <span><strong>January 2021 – Jun 2023</strong></span>
-    </div>
-</h2>
-* Architected test automation environments using Terraform and Ansible, Kubernetes, and Docker running in AWS.
-* Migrated from dedicated qa servers to Infrastructure as Code and Configuration as Code using terraform and AWS.
-* Writing REST API services in cross-platform C# and java to support QA operations.
-* Creating documentation for above activities.
-* Writing Selenium End-to-End test automation to ensure regression testing for rev.com.
-* Jenkins and github actions CI/CD creation and development.
-* Developed 2 SDETs, trained from manual QA to perform java programming, selenium, and test automation.
+<td width="33%">
 
+### Applied AI Engineering
 
-<h2>
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <span><strong>REI, Inc</strong></span>
-        <span><strong>SDET</strong></span>
-        <span><strong>August 2018 – January 2021</strong></span>
-    </div>
-</h2>
-* QA owner for REI flagship mobile product, responsible for >$100 million of revenue for the Co-op across iOS and Android.
-* Eventually took over as QA owner for all the customer mobile space, managing native mobile apps across 154 stores.
-* Managed 7 QA personnel, who raised the overall app rating from 2.9 stars to 4.2 stars in the iOS and android app stores.
-* Managed a cross-platform team of contractors and SDETs to extend test automation coverage, facilitated tight coordination between manual QA and SDETs to decrease test duplication efforts and str[...]
-* Wrote and edited several in-house libraries, including an in-house wrapper around selenium, an accessibility testing automation framework, and several utility methods in java, swift, and espress[...]
-* Developed test automation in both Swift for iOS, and Espresso for Android.
-* Created Jenkins job to streamline and compartmentalize test automation efforts.
+- Azure AI Foundry
+- LLM Integration
+- Multimodal Models
+- Prompt Engineering
+- Structured Outputs
+- AI-Assisted Applications
+- AI Evaluation & Testing
+- Workflow Automation
+- React + AI Application Development
 
+</td>
 
-<h2>   
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <span><strong>AIM Consulting for REI</strong></span>
-        <span><strong>SDET</strong></span>
-        <span><strong>July 2017  – August 2018</strong></span>
-    </div>
-</h2>
-* Developed a resiliency testing framework to test dockerized web services during a network or app slowdown event at Disney for their ESPN push notification service.
-* Added extensive BVTs and functional tests to increase test coverage and reporting for services requiring test automation.
-* Dockerized internal web-based monitoring tool.
-* Responsible for running, configuring, and optimizing automated regression tests locally and in Jenkins, troubleshooting issues related to tests.
+<td width="33%">
 
+### AI-Assisted Engineering
 
-<h2>
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <span><strong>Rhapsody/Napster</strong></span>
-        <span><strong>SDET</strong></span>
-        <span><strong>April 2016 – June 2017</strong></span>
-    </div>
-</h2>
-* Developed test plans and test automation infrastructure to support transitioning to microservice-oriented content delivery architecture- reducing content delivery times by as much as 95% and in[...]
-* Authored command line scripts and trained non-technical content-ingestion team in use, allowing Napster to meet key deliverables to partners reducing team workload.
-* Deployed several microservices handling database access, cache clearing, and content delivery.
-* Successfully advocated team-wide QA processes to increase stability and decrease development time.
-* Authored numerous automated test harnesses to perform functional regression testing for existing and new API endpoints using testNG and JUnit.
-* Used jmeter to create several automated load tests of our primary APIs.
-* Successfully advocated for and coordinated migration of existing test automation from CVS and Mercurial version control systems to git, resulting in reduced train-up times, increased code quali[...]
-* Wrote clients for test architecture to interface with SQL and NoSQL databases.
+- GitHub Copilot
+- AI Development Standards
+- Test Generation
+- React Application Development
+- Refactoring
+- Documentation Automation
+- Defect Triage Acceleration
 
+</td>
 
-<h2>
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-        <span><strong>Insight Global</strong></span>
-        <span><strong>SDE contractor – Microsoft</strong></span>
-        <span><strong>March 2015 – March 2016</strong></span>
-    </div>
-</h2>
-* Effectively used TDD and open-source tool to port PowerShell to Linux.
-* Assisted in creating a test architecture to run extensive Pester tests.
-* Utilized open-source tools extensively to implement multi-platform development in Linux, across multiple development languages.
-* Trained team members to use in house and open source tools.
+</tr>
 
+<tr valign="top">
 
-### Education
-Bachelors in Mathematics
-University of Washington - 2012
+<td>
+
+### Quality Engineering Strategy
+
+- Test Architecture
+- Automation Framework Design
+- Risk-Based Testing
+- Mobile Quality Engineering
+- API & Service Testing
+- Quality Metrics & Reporting
+
+</td>
+
+<td>
+
+### DevOps & Platform Engineering
+
+- CI/CD (GitHub Actions, Jenkins, Azure DevOps)
+- Infrastructure as Code
+- Kubernetes & Docker
+- Terraform & Ansible
+- Cloud Test Environments
+- Automation Reporting Systems
+
+</td>
+
+<td>
+
+### Languages
+
+- Java
+- .NET / C#
+- JavaScript
+- TypeScript
+- Python
+- Bash
+- SQL
+- Swift
+- PowerShell
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Frameworks & Platforms
+
+<table width="100%">
+<tr valign="top">
+
+<td width="25%">
+
+### Java-Based
+
+- Playwright
+- Selenium
+- Espresso
+- Spring Boot
+- JUnit & xUnit
+- TestNG
+- Jest
+
+</td>
+
+<td width="25%">
+
+### .NET
+
+- xUnit
+- .NET Core
+- Pester
+- dotnet-cli
+
+</td>
+
+<td width="25%">
+
+### iOS-Based
+
+- Cucumber
+- XCUITest
+- Detox
+
+</td>
+
+<td width="25%">
+
+### JavaScript-Based
+
+- React
+- Vue
+- Electron
+- Node.js
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Professional Experience
+
+## AIM Consulting | Senior Consultant
+*August 2023 – Present*
+
+- Established AI-assisted test development standards using GitHub Copilot, including governance, code review expectations, and adoption training across the E2E test automation team, leading to more rapid feature delivery and a more unified quality coding standard.
+- Led quality engineering strategy and automation architecture across six repositories supporting four delivery teams and a large-scale Electron/React point-of-sale modernization effort.
+- Reduced regression testing execution time from three days to four hours through automation improvements, test strategy modernization, and streamlined QA processes.
+- Coordinated developers, QA engineers, and SDETs across multiple teams to eliminate duplicate testing efforts.
+- Led mentoring and technical development efforts for senior, mid-level, and junior SDETs.
+- Modernized existing automation frameworks through SOLID design principles.
+- Created leadership reporting and quality intelligence tooling.
+- Served as primary quality representative for approximately 30 senior stakeholders.
+- Developed an internal React-based application leveraging multimodal foundation models through Azure AI Foundry.
+- Designed AI-assisted workflows incorporating LLMs throughout development, testing, and product functionality.
+- Implemented prompt engineering and structured-output integration patterns.
+- Built a React-based spreadsheet data management tool using Azure-hosted LLMs.
+- Evaluated model performance across real-world datasets.
+- Collaborated with business and technical stakeholders to define AI solution requirements.
+
+## REV, Inc. | Senior SDET
+*January 2021 – June 2023*
+
+- Architected cloud-based automation environments using Terraform, Ansible, Docker, Kubernetes, and AWS.
+- Led migration from dedicated QA infrastructure to Infrastructure as Code solutions.
+- Developed internal REST services in C# and Java.
+- Designed and implemented Selenium-based end-to-end automation.
+- Built and maintained CI/CD pipelines using Jenkins and GitHub Actions.
+- Mentored and developed QA professionals into automation engineers.
+
+## REI | SDET
+*August 2018 – January 2021*
+
+- Served as quality owner for REI's flagship mobile applications responsible for over $100M annual revenue.
+- Expanded ownership across the customer mobile ecosystem supporting 154 retail locations.
+- Led and coordinated seven QA professionals and contractors.
+- Increased mobile application ratings from 2.9 to 4.2 stars.
+- Developed mobile automation using Swift/XCUITest and Android Espresso.
+- Created internal automation libraries and accessibility frameworks.
+- Implemented Jenkins automation for scalable regression testing.
+
+## AIM Consulting (Disney & REI) | SDET
+*July 2017 – August 2018*
+
+- Developed resiliency testing frameworks for Disney's ESPN push notification platform.
+- Expanded automated test coverage through validation initiatives.
+- Containerized monitoring solutions.
+- Managed automation suite execution and troubleshooting.
+
+## Rhapsody / Napster | SDET
+*April 2016 – June 2017*
+
+- Developed automation strategy supporting migration to microservices.
+- Created automated regression suites using JUnit and TestNG.
+- Implemented API performance testing using JMeter.
+- Built service clients supporting SQL and NoSQL validation.
+- Developed tooling that enabled non-technical teams to meet delivery commitments.
+- Led migration from CVS and Mercurial to Git.
+- Advocated quality engineering practices that improved stability and shortened development cycles.
+
+## Insight Global (Microsoft) | SDET Contractor
+*March 2015 – March 2016*
+
+- Applied test-driven development practices contributing to PowerShell's Linux efforts.
+- Assisted development of large-scale test architectures utilizing Pester.
+- Worked across Windows and Linux environments.
+- Trained engineers in internal and open-source technologies.
+
+---
+
+# Education
+
+**Bachelor of Science in Mathematics**  
+University of Washington • 2012
+
+**Azure Fundamentals Certification** • 2026
+
+**Azure AI Fundamentals Certification** • 2026
