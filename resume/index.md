@@ -2,7 +2,7 @@
 
 <span><strong>Zachary Folwick</span></strong>
 
-<a href="mailto:zfolwick@gmail.com">contact me
+<a href="mailto:zfolwick@gmail.com">contact me</a>
 
 <span><strong>Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation</span></strong>
 
