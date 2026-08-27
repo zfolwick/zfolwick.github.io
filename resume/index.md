@@ -87,7 +87,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <tr valign="top">
 
-<td>
+<td width="33%" style="border:none;">
   <strong>Quality Engineering Strategy</strong>
   <ul>
     <li>Test Architecture</li>
@@ -99,7 +99,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td>
+<td width="33%" style="border:none;">
   <strong>DevOps &amp; Platform Engineering</strong>
   <ul>
     <li>CI/CD (GitHub Actions, Jenkins, Azure DevOps)</li>
@@ -111,7 +111,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td>
+<td width="33%" style="border:none;">
   <strong>Languages</strong>
   <ul>
     <li>Java</li>
