@@ -137,49 +137,45 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 <tr valign="top">
 
 <td width="25%">
-
-<strong>Java-Based</strong>
-
-- Playwright
-- Selenium
-- Espresso
-- Spring Boot
-- JUnit & xUnit
-- TestNG
-- Jest
-
+  <strong>Java-Based</strong>
+  <ul>
+    <li>Playwright</li>
+    <li>Selenium</li>
+    <li>Espresso</li>
+    <li>Spring Boot</li>
+    <li>JUnit &amp; xUnit</li>
+    <li>TestNG</li>
+    <li>Jest</li>
+  </ul>
 </td>
 
 <td width="25%">
-
-<strong>.NET</strong>
-
-- xUnit
-- .NET Core
-- Pester
-- dotnet-cli
-
+  <strong>.NET</strong>
+  <ul>
+    <li>xUnit</li>
+    <li>.NET Core</li>
+    <li>Pester</li>
+    <li>dotnet-cli</li>
+  </ul>
 </td>
 
 <td width="25%">
-
-<strong>iOS-Based</strong>
-
-- Cucumber
-- XCUITest
-- Detox
-
+  <strong>iOS-Based</strong>
+  <ul>
+    <li>Cucumber</li>
+    <li>XCUITest</li>
+    <li>Detox</li>
+  </ul>
 </td>
 
 <td width="25%">
-
-<strong>JavaScript-Based</strong>
-
-- React
-- Vue
-- Electron
-- Node.js
-
+  <strong>JavaScript-Based</strong>
+  <ul>
+    <li>React</li>
+    <li>Vue</li>
+    <li>Electron</li>
+    <li>Node.js</li>
+  </ul>
 </td>
 
 </tr>
