@@ -1,9 +1,10 @@
-<div align="center">
+<div style="display:flex; justify-content:space-between; align-items:center;">
 
   <span><strong>Zachary Folwick</strong></span>
   
   <a href="mailto:zfolwick@gmail.com">contact me</a>
-  
+
+  <br />
   <strong>
     Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
   </strong>
