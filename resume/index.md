@@ -56,33 +56,31 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 </td>
 
 <td width="33%">
-
-<strong>Applied AI Engineering</strong>
-
-- Azure AI Foundry
-- LLM Integration
-- Multimodal Models
-- Prompt Engineering
-- Structured Outputs
-- AI-Assisted Applications
-- AI Evaluation & Testing
-- Workflow Automation
-- React + AI Application Development
-
+  <strong>Applied AI Engineering</strong>
+  <ul>
+    <li>Azure AI Foundry</li>
+    <li>LLM Integration</li>
+    <li>Multimodal Models</li>
+    <li>Prompt Engineering</li>
+    <li>Structured Outputs</li>
+    <li>AI-Assisted Applications</li>
+    <li>AI Evaluation &amp; Testing</li>
+    <li>Workflow Automation</li>
+    <li>React + AI Application Development</li>
+  </ul>
 </td>
 
 <td width="33%">
-
-<strong>AI-Assisted Engineering</strong>
-
-- GitHub Copilot
-- AI Development Standards
-- Test Generation
-- React Application Development
-- Refactoring
-- Documentation Automation
-- Defect Triage Acceleration
-
+  <strong>AI-Assisted Engineering</strong>
+  <ul>
+    <li>GitHub Copilot</li>
+    <li>AI Development Standards</li>
+    <li>Test Generation</li>
+    <li>React Application Development</li>
+    <li>Refactoring</li>
+    <li>Documentation Automation</li>
+    <li>Defect Triage Acceleration</li>
+  </ul>
 </td>
 
 </tr>
@@ -90,45 +88,42 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 <tr valign="top">
 
 <td>
-
-<strong>Quality Engineering Strategy</strong>
-
-- Test Architecture
-- Automation Framework Design
-- Risk-Based Testing
-- Mobile Quality Engineering
-- API & Service Testing
-- Quality Metrics & Reporting
-
+  <strong>Quality Engineering Strategy</strong>
+  <ul>
+    <li>Test Architecture</li>
+    <li>Automation Framework Design</li>
+    <li>Risk-Based Testing</li>
+    <li>Mobile Quality Engineering</li>
+    <li>API &amp; Service Testing</li>
+    <li>Quality Metrics &amp; Reporting</li>
+  </ul>
 </td>
 
 <td>
-
-<strong>DevOps & Platform Engineering</strong>
-
-- CI/CD (GitHub Actions, Jenkins, Azure DevOps)
-- Infrastructure as Code
-- Kubernetes & Docker
-- Terraform & Ansible
-- Cloud Test Environments
-- Automation Reporting Systems
-
+  <strong>DevOps &amp; Platform Engineering</strong>
+  <ul>
+    <li>CI/CD (GitHub Actions, Jenkins, Azure DevOps)</li>
+    <li>Infrastructure as Code</li>
+    <li>Kubernetes &amp; Docker</li>
+    <li>Terraform &amp; Ansible</li>
+    <li>Cloud Test Environments</li>
+    <li>Automation Reporting Systems</li>
+  </ul>
 </td>
 
 <td>
-
-<strong>Languages</strong>
-
-- Java
-- .NET / C#
-- JavaScript
-- TypeScript
-- Python
-- Bash
-- SQL
-- Swift
-- PowerShell
-
+  <strong>Languages</strong>
+  <ul>
+    <li>Java</li>
+    <li>.NET / C#</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>Python</li>
+    <li>Bash</li>
+    <li>SQL</li>
+    <li>Swift</li>
+    <li>PowerShell</li>
+  </ul>
 </td>
 
 </tr>
