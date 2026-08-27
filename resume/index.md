@@ -2,7 +2,7 @@
 
 # Zachary Folwick
 
-541-678-1653 • <a href="mailto:zfolwick@gmail.com">zfolwick@gmail.zfolwick.github
+<a href="mailto:zfolwick@gmail.com">zfolwick@gmail.zfolwick.github
 
 ## Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
 
