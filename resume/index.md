@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:space-between; align-items:center;">
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%">
 
   <span><strong>Zachary Folwick</strong></span>
   
@@ -43,7 +43,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="33%">
 
-### Engineering Leadership
+<strong>Engineering Leadership</strong>
 
 - Team Leadership
 - Mentoring & Coaching
@@ -56,7 +56,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="33%">
 
-### Applied AI Engineering
+<strong>Applied AI Engineering</strong
 
 - Azure AI Foundry
 - LLM Integration
@@ -72,7 +72,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="33%">
 
-### AI-Assisted Engineering
+<strong>AI-Assisted Engineering</strong>
 
 - GitHub Copilot
 - AI Development Standards
@@ -90,7 +90,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td>
 
-### Quality Engineering Strategy
+<strong>Quality Engineering Strategy</strong>
 
 - Test Architecture
 - Automation Framework Design
@@ -103,7 +103,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td>
 
-### DevOps & Platform Engineering
+<strong>DevOps & Platform Engineering</strong>
 
 - CI/CD (GitHub Actions, Jenkins, Azure DevOps)
 - Infrastructure as Code
@@ -116,7 +116,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td>
 
-### Languages
+<strong>Languages</strong>
 
 - Java
 - .NET / C#
@@ -142,7 +142,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="25%">
 
-### Java-Based
+<strong>Java-Based</strong>
 
 - Playwright
 - Selenium
@@ -156,7 +156,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="25%">
 
-### .NET
+<strong>.NET</strong>
 
 - xUnit
 - .NET Core
@@ -167,7 +167,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="25%">
 
-### iOS-Based
+<strong>iOS-Based</strong>
 
 - Cucumber
 - XCUITest
@@ -177,7 +177,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="25%">
 
-### JavaScript-Based
+<strong>JavaScript-Based</strong>
 
 - React
 - Vue
