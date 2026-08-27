@@ -44,13 +44,14 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 <td width="33%">
 
 <strong>Engineering Leadership</strong>
-
-- Team Leadership
-- Mentoring & Coaching
-- Cross-Functional Collaboration
-- Stakeholder Management
-- Hiring & Talent Development
-- Quality Governance
+<ul>
+  <li>Team Leadership</li>
+  <li>Mentoring & Coaching</li>
+  <li>Cross-Functional Collaboration</li>
+  <li>Stakeholder Management</li>
+  <li>Hiring & Talent Development</li>
+  <li>Quality Governance</li>
+</ul>
 
 </td>
 
