@@ -4,8 +4,9 @@
 
 <a href="mailto:zfolwick@gmail.com">contact me</a>
 
-<span><strong>Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation</strong></span>
-
+<strong>
+  Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
+</strong>
 </div>
 
 Quality engineering leader with 10+ years of experience driving automation strategy, engineering excellence, and organizational quality improvements across retail, e-commerce, media, cloud, and enterprise software platforms.
