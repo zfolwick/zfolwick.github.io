@@ -9,7 +9,7 @@
 
 <br />
 
-<div style="center">
+<div style="text-align:center;">
   <strong>
     Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
   </strong>
