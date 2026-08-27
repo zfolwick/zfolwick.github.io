@@ -56,7 +56,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 <td width="33%">
 
-<strong>Applied AI Engineering</strong
+<strong>Applied AI Engineering</strong>
 
 - Azure AI Foundry
 - LLM Integration
