@@ -1,14 +1,15 @@
 <div align="center">
 
-<span><strong>Zachary Folwick</strong></span>
+  <span><strong>Zachary Folwick</strong></span>
+  
+  <a href="mailto:zfolwick@gmail.com">contact me</a>
+  
+  <strong>
+    Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
+  </strong>
 
-<a href="mailto:zfolwick@gmail.com">contact me</a>
-
-<strong>
-  Quality Engineering Leader | Test Architect | AI-Enabled Delivery Transformation
-</strong>
 </div>
-
+<br />
 Quality engineering leader with 10+ years of experience driving automation strategy, engineering excellence, and organizational quality improvements across retail, e-commerce, media, cloud, and enterprise software platforms.
 
 Combines deep hands-on engineering expertise with proven success leading teams, mentoring engineers, transforming delivery processes, and applying AI-assisted development practices to improve quality, productivity, and business outcomes.
