@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%">
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
 
   <span><strong>Zachary Folwick</strong></span>
   
