@@ -133,10 +133,10 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 ## Frameworks & Platforms
 
-<table width="100%">
+<table width="100%" style="display:table;">
 <tr valign="top">
 
-<td style="display:table; table-layout:fixed; border:none;">
+<td style="table-layout:fixed; border:none;">
   <strong>Java-Based</strong>
   <ul>
     <li>Playwright</li>
