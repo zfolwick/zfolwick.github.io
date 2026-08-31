@@ -1,12 +1,7 @@
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
-
-  <span><strong>Zachary Folwick</strong></span>
-  
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <strong>Zachary Folwick</strong>
   <a href="mailto:zfolwick@gmail.com">contact me</a>
-
-  <br />
 </div>
-
 <br />
 
 <div style="text-align:center;">
