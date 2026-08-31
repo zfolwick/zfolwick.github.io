@@ -136,7 +136,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 <table width="100%">
 <tr valign="top">
 
-<td width="25%" style="border:none;">
+<td width="25%" style="display:table; table-layout:fixed; border:none;">
   <strong>Java-Based</strong>
   <ul>
     <li>Playwright</li>
