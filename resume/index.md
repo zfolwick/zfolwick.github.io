@@ -136,7 +136,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 <table width="100%">
 <tr valign="top">
 
-<td width="25%" style="display:table; table-layout:fixed; border:none;">
+<td style="display:table; table-layout:fixed; border:none;">
   <strong>Java-Based</strong>
   <ul>
     <li>Playwright</li>
@@ -149,7 +149,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td width="25%" style="border:none;">
+<td style="border:none;">
   <strong>.NET</strong>
   <ul>
     <li>xUnit</li>
@@ -159,7 +159,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td width="25%" style="border:none;">
+<td style="border:none;">
   <strong>iOS-Based</strong>
   <ul>
     <li>Cucumber</li>
@@ -168,7 +168,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
   </ul>
 </td>
 
-<td width="25%" style="border:none;">
+<td style="border:none;">
   <strong>JavaScript-Based</strong>
   <ul>
     <li>React</li>
