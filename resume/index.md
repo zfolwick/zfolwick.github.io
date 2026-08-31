@@ -85,7 +85,7 @@ Combines deep hands-on engineering expertise with proven success leading teams, 
 
 </tr>
 
-<tr valign="top">
+<tr valign="top" style="background:transparent;">
 
 <td width="33%" style="border:none;">
   <strong>Quality Engineering Strategy</strong>
